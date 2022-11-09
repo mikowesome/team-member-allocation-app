@@ -7,7 +7,7 @@
 - Context API
 
 ## Links
-- Live Site URL: [Team Member Allocation App](https://jolly-raindrop-2d89dc.netlify.app/)
+- Live Site URL: [Team Member Allocation App](https://mikowesome-team-member-allocation-app.netlify.app/)
 
 ## Project Screenshot
 
